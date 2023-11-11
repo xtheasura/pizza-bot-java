@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class PizzaStore {
 
-    public final static List<String>PIZZA_TYPE_LIST = new ArrayList<>(Arrays.asList("Margherita", "Hawaiian" , "Veggie", "Pepperoni"));
+    public final static List<String>PIZZA_TYPE_LIST = new ArrayList<>(Arrays.asList("Margherita", "Veggie", "Pepperoni"));
     
     public final static Map<String, Double>DRINKS_MAP = new HashMap<>();
     public static final  Map<String, Double> PIZZA_SIZES_MAP = new HashMap<>();;
